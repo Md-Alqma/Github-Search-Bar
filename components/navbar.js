@@ -17,7 +17,7 @@ function navbar() {
         </div>
     </div>
     <div id="right">
-        <img src="./images/profile.png" height="35" alt="">
+        <img src="./images/profile.png" id="profile-icon" height="35" alt="">
     </div>
 </div>`
 }
